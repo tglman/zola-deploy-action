@@ -1,6 +1,6 @@
-name: 'Zola Deploy to Pages'
-description: 'Build and deploy a Zola site to GitHub Pages'
-author: 'Shaleen Jain'
+name: 'OrientDB website deploy'
+description: 'OrientDB website deploy'
+author: 'Tglman'
 runs:
   using: 'docker'
   image: 'Dockerfile'
